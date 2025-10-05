@@ -10,7 +10,7 @@
 
 ### 🧠 Sobre Mim:
 - 🎓 Estudante de **Engenharia de Controle e Automação (Mecatrônica)** na **UPE**
-- 💻 Trabalhando e aprendendo com **C**, **c++**, **JavaScript** e **React.js** 
+- 💻 Trabalhando e aprendendo com **C**, **C++**, **JavaScript** e **React.js** 
 
 <!--
 **ViniciusChavess/ViniciusChavess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
