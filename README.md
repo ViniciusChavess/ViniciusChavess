@@ -11,6 +11,23 @@
 - 🎓 Estudante de **Engenharia de Controle e Automação (Mecatrônica)** na **UPE**
 - 💻 Trabalhando e aprendendo com **C**, **C++**, **JavaScript**, **TypeScript** e **React.js**
 
+---
+
+### 💼 Experiência:
+- 💻 **Desenvolvimento de Sistemas na Lexitech**  
+  Sistemas em TypeScript e tecnologias de React.js e Node.js para advogados
+
+- 🤖 **Conclusão do Curso de Robótica – Código Kid**  
+  Fundamentos de lógica, sensores e atuadores aplicados em projetos com **Arduino** e robôs educativos.
+
+- ⚙️ **Curso Programauto**  
+  Formação completa em **C (básico ao avançado)**, com foco em automação, controle e integração de sistemas.
+
+- 🚀 **Curso RoadTrip de JavaScript e Tecnologias em Node.js e React.js**  
+  Aprendizado avançado em desenvolvimento web moderno, integração de APIs e arquitetura de projetos escaláveis.
+
+---
+
 - ### ⚙️ Tecnologias que Uso:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
