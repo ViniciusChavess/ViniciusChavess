@@ -1,10 +1,5 @@
 <h1 align="center">👋 Olá, sou Vinicius Chaves!</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
-
 ---
 
 ### 🧠 Sobre Mim:
@@ -29,6 +24,10 @@
 ---
 
 - ### ⚙️ Tecnologias que Uso:
+- <p align="center">
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
