@@ -37,14 +37,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub:
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniciusChavess&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusChavess&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 ### ⚡ Atualmente aprendendo:
 - Aprofundando conhecimentos em **C** na cadeira de Programação 2
 - Estudo de aplicação de **IA** em automação de atividades e rotina
