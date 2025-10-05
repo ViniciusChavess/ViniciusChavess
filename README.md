@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Vinicius!</h1>
+<h1 align="center">👋 Olá, sou Vinicius Chaves!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Engenharia%20de%20Controle%20e%20Automação-UPE-blue?style=for-the-badge"/>
@@ -10,7 +10,7 @@
 
 ### 🧠 Sobre Mim:
 - 🎓 Estudante de **Engenharia de Controle e Automação (Mecatrônica)** na **UPE**
-- 💻 Trabalhando e aprendendo com **C**, **C++**, **JavaScript** e **React.js** 
+- 💻 Trabalhando e aprendendo com **C**, **C++**, **JavaScript**, **TypeScript** e **React.js** 
 
 <!--
 **ViniciusChavess/ViniciusChavess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
