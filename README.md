@@ -1,4 +1,16 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Vinicius!</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Engenharia%20de%20Controle%20e%20Automação-UPE-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linguagem-C-blueviolet?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+</p>
+
+---
+
+### 🧠 Sobre Mim:
+- 🎓 Estudante de **Engenharia de Controle e Automação (Mecatrônica)** na **UPE**
+- 💻 Trabalhando e aprendendo com **C**, **Python** e **Sistemas Embarcados**
 
 <!--
 **ViniciusChavess/ViniciusChavess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
