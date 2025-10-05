@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o <strong>Vinicius Chaves</strong>!</h1>
+<h1 align="center">👋 Olá, sou <strong>Vinicius Chaves</strong>!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
