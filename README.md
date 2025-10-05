@@ -1,10 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o <strong>Vinicius Chaves</strong>!</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="150px" alt="Avatar animado">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/UPE%20-%20Engenharia%20de%20Controle%20e%20Automação-00599C?style=for-the-badge"/>
@@ -15,7 +11,6 @@
 ### 🧠 Sobre Mim:
 💡 Estudante de **Engenharia de Controle e Automação (Mecatrônica)** na **UPE**  
 ⚙️ Trabalhando e aprendendo com **C**, **C++**, **JavaScript**, **TypeScript** e **React.js**  
-🚀 Apaixonado por automação, robótica e o poder de ensinar máquinas a trabalhar por mim.
 
 ---
 
@@ -37,7 +32,7 @@
 
 ### 🧰 Tecnologias que Uso:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,html,css,arduino,git,github,linux,vscode,powershell,blender,gimp" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,html,css,arduino,git,github,linux,vscode,powershell" />
 </p>
 
 ---
@@ -51,8 +46,8 @@
 ---
 
 ### ⚡ Atualmente aprendendo:
-- Desenvolvimento **Full Stack** com **Node.js** e **React.js**  
-- Estruturas de dados e **sistemas embarcados**
+- Aprofundando conhecimentos em **C** na cadeira de Programação 2
+- Estudo de aplicação de **IA** em automação de atividades e rotina
 
 ---
 
@@ -63,10 +58,4 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Automação+é+minha+linguagem.;Código+é+arte+com+função.;Entre+o+caos+e+a+lógica,+escolhi+o+C." alt="Typing SVG" />
-</p>
-
----
-
-<p align="center">
-  <sub>Feito com 🧠, ☕ e alguns <code>printf()</code> bem colocados.</sub>
 </p>
