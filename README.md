@@ -1,44 +1,72 @@
-<h1 align="center">👋 Olá, sou Vinicius Chaves!</h1>
+<h1 align="center">👋 Olá, eu sou o <strong>Vinicius Chaves</strong>!</h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/4M7IWwP.gif" width="150px" alt="Avatar animado">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UPE%20-%20Engenharia%20de%20Controle%20e%20Automação-00599C?style=for-the-badge"/>
+</p>
 
 ---
 
 ### 🧠 Sobre Mim:
-- 🎓 Estudante de **Engenharia de Controle e Automação (Mecatrônica)** na **UPE**
-- 💻 Trabalhando e aprendendo com **C**, **C++**, **JavaScript**, **TypeScript** e **React.js**
+💡 Estudante de **Engenharia de Controle e Automação (Mecatrônica)** na **UPE**  
+⚙️ Trabalhando e aprendendo com **C**, **C++**, **JavaScript**, **TypeScript** e **React.js**  
+🚀 Apaixonado por automação, robótica e o poder de ensinar máquinas a trabalhar por mim.
 
 ---
 
 ### 💼 Experiência:
-- 💻 **Desenvolvimento de Sistemas na Lexitech**  
-  Sistemas em TypeScript e tecnologias de React.js e Node.js para advogados
 
-- 🤖 **Conclusão do Curso de Robótica – Código Kid**  
+- 💻 **Desenvolvimento de Sistemas – Lexitech**  
+  Sistemas jurídicos em **TypeScript**, **Node.js** e **React.js**, focados em soluções para escritórios de advocacia.
+
+- 🤖 **Curso de Robótica – Código Kid**  
   Fundamentos de lógica, sensores e atuadores aplicados em projetos com **Arduino** e robôs educativos.
 
 - ⚙️ **Curso Programauto**  
-  Formação completa em **C (básico ao avançado)**, com foco em automação, controle e integração de sistemas.
+  Formação completa em **C (básico ao avançado)**, com foco em automação e controle de processos.
 
-- 🚀 **Curso RoadTrip de JavaScript e Tecnologias em Node.js e React.js**  
-  Aprendizado avançado em desenvolvimento web moderno, integração de APIs e arquitetura de projetos escaláveis.
+- 🚗 **Curso RoadTrip de JavaScript e Tecnologias em Node.js e React.js**  
+  Desenvolvimento web moderno, integração de APIs e arquitetura de sistemas escaláveis.
 
 ---
 
-- ### ⚙️ Tecnologias que Uso:
+### 🧰 Tecnologias que Uso:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,html,css,arduino,git,github,linux,vscode,powershell,blender,gimp" />
+</p>
 
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+---
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 📊 Estatísticas do GitHub:
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniciusChavess&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusChavess&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
-“O computador é rápido, o humano é teimoso. Juntos, causam maravilhas.”
+---
 
+### ⚡ Atualmente aprendendo:
+- Desenvolvimento **Full Stack** com **Node.js** e **React.js**  
+- Estruturas de dados e **sistemas embarcados**
+
+---
+
+### ✨ Citação favorita:
+> “O computador é rápido, o humano é teimoso. Juntos, causam maravilhas.”
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Automação+é+minha+linguagem.;Código+é+arte+com+função.;Entre+o+caos+e+a+lógica,+escolhi+o+C." alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Feito com 🧠, ☕ e alguns <code>printf()</code> bem colocados.</sub>
+</p>
