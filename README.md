@@ -32,7 +32,7 @@
 
 ### 🧰 Tecnologias que Uso:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,html,css,arduino,git,github,linux,vscode,powershell" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,html,css,arduino,linux" />
 </p>
 
 ---
