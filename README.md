@@ -10,7 +10,7 @@
 
 ### 🧠 Sobre Mim:
 💡 Estudante de **Engenharia de Controle e Automação (Mecatrônica)** na **UPE**  
-⚙️ Trabalhando e aprendendo com **C**, **C++**, **JavaScript**, **TypeScript** e **React.js**  
+⚙️ Trabalhando e aprendendo com **C**, **C++**, **Python**, **JavaScript**, **TypeScript** e **React.js** e umas coisinhas a mais  
 
 ---
 
@@ -32,13 +32,14 @@
 
 ### 🧰 Tecnologias que Uso:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,html,css,arduino,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,qt,python,js,ts,react,nodejs,html,css,arduino,linux" />
 </p>
 
 ---
 
 ### ⚡ Atualmente aprendendo:
-- Aprofundando conhecimentos em **C** na cadeira de Programação 2
+- Aprofundando conhecimentos em **C++** na cadeira de Programação 3
+- Desenvolvendo projetos academicos para a **DeltaV Rocketry** e **ocUPE**
 - Estudo de aplicação de **IA** em automação de atividades e rotina
 
 ---
