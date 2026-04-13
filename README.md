@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 Sobre Mim:
-💡 Estudante de **Engenharia de Controle e Automação (Mecatrônica)** na **UPE**  
+💡 Estudante de **Engenharia de Controle e Automação (Mecatrônica)** na **Universidade de Pernambuco(UPE)** - **POLI**  
 ⚙️ Trabalhando e aprendendo com **C**, **C++**, **Python**, **JavaScript**, **TypeScript** e **React.js** e umas coisinhas a mais  
 
 ---
