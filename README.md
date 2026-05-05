@@ -1,8 +1,6 @@
 <h1 align="center">👋 Olá, sou <strong>Vinicius Chaves</strong>!</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/UPE%20-%20Engenharia%20de%20Controle%20e%20Automação-00599C?style=for-the-badge"/>
 </p>
 
